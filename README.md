@@ -1,2 +1,3 @@
-# jiu_jitsu_2023
+# jiu_jitsu
+
 PyGame Hackathon
